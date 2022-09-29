@@ -1,0 +1,93 @@
+{
+  "name": "Mad Bearz #267",
+  "symbol": "MADB",
+  "description": "333 Mad Bearz living on on Solana Blockchain. Each Mad Bearz is unique, each Mad Bearz is freaking freaking mad. Join the Mad Bearz.",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://nftstorage.link/ipfs/bafybeib5gs4y76327ywlcwwbayk5qr4x4wmwlm3ua4yg26fqw3oihb3igm/254.png",
+  "attributes": [
+   {
+      "trait_type": "Head",
+      "value": "Wulfz"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ripper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Real Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Plated Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Smoke"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "Face Armor",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "Miscellaneous",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "XP",
+      "value": "0"
+    },
+    {
+      "trait_type": "Level",
+      "value": "1"
+    },
+    {
+      "trait_type": "Strength",
+      "value": "202"
+    },
+    {
+      "trait_type": "Endurance",
+      "value": "153"
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": "192"
+    },
+    {
+      "trait_type": "Luck",
+      "value": "23"
+    },
+    {
+      "trait_type": "Is Locked",
+      "value": "FALSE"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "NOMAD"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
